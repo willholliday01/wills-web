@@ -51,17 +51,23 @@ nav {
   margin: 0;
 }
 
+.line-1 {
+  height: 1px;
+  background: black;
+}
+
 .photo-2 {
   width: 50%;
   float: left;
   padding-left: 50px;
+  padding-top: 3%;
 }
 
 #dreams {
   font-family: "roboto", sans-serif;
   font-size: 40px;
   padding-left: 50px;
-  padding-top: 10px;
+  padding-top: 3%;
   margin: 0;
   width: 40%;
   float: right;
@@ -73,6 +79,7 @@ nav {
   padding-top: 5%;
   padding-bottom: 5%;
   padding-left: 50px;
+  padding-right: 50px;
   width: 40%;
   margin: 0;
   float: right;
