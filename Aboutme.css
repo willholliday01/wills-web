@@ -1,0 +1,79 @@
+* {
+  padding: 0%;
+  margin: 0%;
+}
+@import url(https://fonts.googleapis.com/css2);
+
+nav {
+  font-family: "roboto", sans-serif;
+  background-color: lightgray;
+  width: 100%;
+  height: 100px;
+}
+
+#header {
+  float: left;
+  font-size: 80px;
+  line-height: 100px;
+  padding-left: 10%;
+}
+
+#link {
+  list-style-type: none;
+  font-size: 20px;
+  float: right;
+  padding-right: 10%;
+  line-height: 33px;
+}
+
+.photo-1 {
+  width: 50%;
+  float: right;
+  padding-right: 80px;
+}
+
+#subtitle {
+  font-family: "roboto", sans-serif;
+  font-size: 40px;
+  padding-left: 50px;
+  padding-top: 10px;
+  width: 40%;
+  margin: 0%;
+}
+
+#infoblock1 {
+  font-family: "roboto", sans-serif;
+  font-size: 20px;
+  padding-top: 5%;
+  padding-bottom: 20%;
+  padding-left: 50px;
+  width: 40%;
+  margin: 0;
+}
+
+.photo-2 {
+  width: 50%;
+  float: left;
+  padding-left: 50px;
+}
+
+#dreams {
+  font-family: "roboto", sans-serif;
+  font-size: 40px;
+  padding-left: 50px;
+  padding-top: 10px;
+  margin: 0;
+  width: 40%;
+  float: right;
+}
+
+#goals {
+  font-family: "roboto", sans-serif;
+  font-size: 20px;
+  padding-top: 5%;
+  padding-bottom: 5%;
+  padding-left: 50px;
+  width: 40%;
+  margin: 0;
+  float: right;
+}
